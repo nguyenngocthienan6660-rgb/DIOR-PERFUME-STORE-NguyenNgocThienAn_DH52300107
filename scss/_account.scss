@@ -1,0 +1,21 @@
+.account-section{
+padding:80px 0;
+}
+
+.form-box{
+background:$white;
+padding:40px;
+border-radius:$border-radius;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+.btn-login{
+background:$primary-color;
+color:$white;
+border:none;
+width:100%;
+}
+
+.btn-login:hover{
+background:$secondary-color;
+}
